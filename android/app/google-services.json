@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120822356592",
+    "project_id": "fir-messaging-demo-69a5d",
+    "storage_bucket": "fir-messaging-demo-69a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120822356592:android:eaeac35fd9a0dc095f72b5",
+        "android_client_info": {
+          "package_name": "com.example.firebase_messaging_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHsX-LMqNl8FZBN8RQfwyAoQUnbRCZdJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
